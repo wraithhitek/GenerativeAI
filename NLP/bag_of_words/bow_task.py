@@ -4,3 +4,7 @@
 from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
 import streamlit as st
+
+st.title("Bag Of Words")
+st.text_area("Enter sentences(one per line)").split("\n)
+                                                    
