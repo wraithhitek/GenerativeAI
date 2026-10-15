@@ -1,1 +1,1 @@
-journey to learning GENAI
+Beginner to Advanced level GenAI from Scratch.
